@@ -3,7 +3,7 @@ If you decided to use Bootstrap in several places of your site but including Boo
 
 Every bootstrap selector has had the letter n prepended to it. For example .col-sm-6 is now .ncol-sm-6. This works better than other isolated bootstrap versions because it doesnt apply this version's css on top of the existing bootstrap css.
 
-##Version
+## Version
 Based on bootstrap v5.0.1
 
 ## Usage
