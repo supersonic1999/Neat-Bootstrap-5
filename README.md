@@ -1,7 +1,7 @@
 # Neat Bootstrap
 If you decided to use Bootstrap in several places of your site but including Bootstrap CSS rewrites your styles in other places you should use this CSS file.
 
-Every bootstrap selector has had the letter n prepended to it. For example .col-sm-6 is not .ncol-sm-6. This works better than other isolated bootstrap versions because it doesnt apply this version's css on top of the existing bootstrap css.
+Every bootstrap selector has had the letter n prepended to it. For example .col-sm-6 is now .ncol-sm-6. This works better than other isolated bootstrap versions because it doesnt apply this version's css on top of the existing bootstrap css.
 
 ## Usage
 
